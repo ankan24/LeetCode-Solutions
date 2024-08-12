@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ankan24/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankan24/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0228-summary-ranges](https://github.com/ankan24/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
