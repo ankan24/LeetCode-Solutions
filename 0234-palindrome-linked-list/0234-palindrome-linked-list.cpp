@@ -20,14 +20,13 @@ public:
         }
 
         while(head && !s.empty()){
-            if(s.top()!=head->val){
+            if(head->val!=s.top()){
                 return false;
             }else{
                 s.pop();
-                head=head->next;
+                head = head->next;
             }
-
         }
-    return true;
+        return true;
     }
 };
