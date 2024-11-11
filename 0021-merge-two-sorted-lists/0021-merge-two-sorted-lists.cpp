@@ -14,7 +14,7 @@ public:
         ListNode* ans = new ListNode(0);
         ListNode* head = ans;
 
-        while(l1!= NULL & l2!=NULL){
+        while(l1!= NULL && l2!=NULL){
             if(l1->val <= l2->val){
                 head->next = l1;
                 l1=l1->next;
