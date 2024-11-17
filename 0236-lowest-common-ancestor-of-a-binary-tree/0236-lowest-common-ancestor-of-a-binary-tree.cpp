@@ -16,10 +16,8 @@ public:
         TreeNode* left = lowestCommonAncestor(root->left, p, q);
         TreeNode* right = lowestCommonAncestor(root->right, p, q);
  
-        if (left != NULL && right != NULL) {
-            return root;
-        }
-
-        return left != NULL ? left : right;
+         if(left==NULL) return right;
+         if(right==NULL) return left;
+         return root;
     }
 };
