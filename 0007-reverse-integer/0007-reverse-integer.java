@@ -11,7 +11,7 @@ class Solution {
         }
          try {
             return Integer.parseInt(rev);
-        }catch (NumberFormatException e) {
+        }catch (Exception e) {
             return 0;
         }
     }
