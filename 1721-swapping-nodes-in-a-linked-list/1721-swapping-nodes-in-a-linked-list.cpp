@@ -20,15 +20,7 @@ public:
             arr.push_back(temp->val);
             temp = temp->next;
         }
-        int pos = 0;
-        for(int i=0;i<arr.size();i++){
-            if(i+1==k){
-                pos = i+1;
-                break;
-            }
-             
-        }
-        swap(arr[k-1],arr[arr.size()-pos]);
+        swap(arr[k-1],arr[arr.size()-k]);
         temp = head;
         for(int i=0;i<arr.size();i++){
             temp->val = arr[i];
