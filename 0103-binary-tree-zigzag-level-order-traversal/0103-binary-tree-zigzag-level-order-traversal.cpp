@@ -17,9 +17,10 @@ public:
 
         queue<TreeNode*> q;
         q.push(root);
-        bool l2r = true;
+         int level = 0;
 
         while(!q.empty()){
+            level++;
             int size = q.size();
             vector<int> store;
           for(int i=0;i<size;i++){
@@ -34,11 +35,10 @@ public:
                 q.push(node->right);
             }
           }
-          if(!l2r){
+          if(level % 2 == 0){
             reverse(store.begin(),store.end());
           }
           ans.push_back(store);
-          l2r = !l2r;
         }
        return ans;   
     }
