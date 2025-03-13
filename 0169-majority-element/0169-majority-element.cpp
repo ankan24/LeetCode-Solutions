@@ -1,8 +1,18 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int n = nums.size();
-        sort(nums.begin(),nums.end());
-        return nums[n/2];
+        map<int,int> mp;
+        for(int i=0;i<nums.size();i++){
+            mp[nums[i]]++;
+        }
+        int mxfreq = 0;
+        int mxele = 0;
+        for(auto ele : mp){
+            if(ele.second > mxfreq){
+                mxfreq = ele.second;
+                mxele = ele.first;
+            }
+        }
+        return mxele;
     }
 };
