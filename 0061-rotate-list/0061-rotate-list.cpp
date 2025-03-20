@@ -12,22 +12,23 @@ class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
         if(head==NULL || head->next==NULL || k==0) return head;
+
         ListNode* t = head;
-        vector<int> arr;
-        while(t!=NULL){
-            arr.push_back(t->val);
+        int len = 1;
+        while(t->next){
+            len++;
             t = t->next;
         }
-         k = k%arr.size();
-        vector<int> ans;
-        for(int i = arr.size()-k;i<arr.size();i++) ans.push_back(arr[i]);
-        for(int i=0;i<arr.size()-k;i++) ans.push_back(arr[i]);
 
-        t = head;
-       for(int i=0;i<ans.size();i++){
-          t->val = ans[i];
-          t = t->next;
-       }
+        t->next = head;
+        k = k%len;
+        k = len-k;
+       
+       while(k--) t = t->next;
+
+       head = t->next;
+       t->next = NULL;
+
        return head;
     }
 };
