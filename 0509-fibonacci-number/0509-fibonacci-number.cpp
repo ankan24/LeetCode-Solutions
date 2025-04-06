@@ -1,15 +1,14 @@
 class Solution {
 public:
-//      Memoization -------------
- vector<int> arr;
-
-    int fib(int n) {
-        if(arr.empty()) arr.resize(n+1,-1);
-        
+    int fibo(vector<int>& dp , int n){
         if(n==0 || n==1) return n;
-        if(arr[n] != -1) return arr[n];
-
-        arr[n]  = fib(n-1)+fib(n-2);    
-        return arr[n];
+        if(dp[n]!=-1) return dp[n];
+        dp[n] = fibo(dp,n-1)+fibo(dp,n-2);
+         return dp[n];
+    }
+    int fib(int n) {
+        vector<int> dp(n+1 , -1);
+        int ans = fibo(dp , n);
+        return ans;
     }
 };
