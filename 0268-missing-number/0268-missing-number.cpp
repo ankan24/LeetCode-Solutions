@@ -2,12 +2,13 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n = nums.size();
-        sort(nums.begin(),nums.end());
-        int mx = nums[n-1];
-        int i;
-        for(i=0;i<mx;i++){
-            if(nums[i]!=i) return i;
+        int arrsum=0 , elesum=0;
+        for(int i=0;i<n;i++){
+            arrsum += nums[i];
         }
-        return i+1;
+        for(int i=0;i<=n;i++){
+            elesum += i;
+        }
+        return elesum-arrsum;
     }
 };
