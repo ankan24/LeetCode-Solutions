@@ -5,9 +5,7 @@ public:
         int mxpro = 0;
 
         for(int i=1;i<p.size();i++){
-            if(minpri > p[i]){
-                minpri = p[i];
-            }
+            minpri = min(minpri,p[i]);
             int cost = p[i]-minpri;
             mxpro = max(cost,mxpro);
         } 
