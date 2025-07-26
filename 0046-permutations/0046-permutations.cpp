@@ -1,13 +1,12 @@
 class Solution {
 public:
-
-    void solve(vector<int>n , vector<vector<int>>&a , int idx){
+    void solve(vector<int> n , vector<vector<int>> &a , int idx){
         if(idx >= n.size()){
             a.push_back(n);
             return;
         }
 
-        for(int i= idx;i<n.size();i++){
+        for(int i = idx;i<n.size();i++){
             swap(n[idx], n[i]);
             solve(n,a,idx+1);
             swap(n[idx],n[i]);
@@ -19,6 +18,5 @@ public:
           int i = 0;
           solve(nums,ans,i);
           return ans;
-        
     }
 };
