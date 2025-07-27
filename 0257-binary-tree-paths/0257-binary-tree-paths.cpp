@@ -20,7 +20,7 @@ public:
           path += "->";
           if(root->left) dfs(root->left,arr,path);
           if(root->right) dfs(root->right,arr,path);
-      // path.pop_back();   
+      path.pop_back();   
     }
     
     vector<string> binaryTreePaths(TreeNode* root) {
