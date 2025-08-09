@@ -1,8 +1,8 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& mtx) {
-        int n = mtx.size();
-        int m = mtx[0].size();
+        int n = mtx.size(); // no of row
+        int m = mtx[0].size(); // no of col
 
         vector<int> r(n,0);
         vector<int> c(m,0);
