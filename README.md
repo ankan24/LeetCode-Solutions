@@ -1,6 +1,6 @@
 A collection of LeetCode questions to ace the coding interview!
 <!---LeetCode Topics Start-->
-# LeetCode Topics 
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -67,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ankan24/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ankan24/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
