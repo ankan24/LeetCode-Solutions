@@ -75,4 +75,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ankan24/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/ankan24/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ankan24/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
