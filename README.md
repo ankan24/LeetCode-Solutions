@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ankan24/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ankan24/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/ankan24/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## Tree
 |  |
 | ------- |
