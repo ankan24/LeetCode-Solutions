@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/ankan24/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankan24/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ankan24/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ankan24/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ankan24/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankan24/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankan24/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ankan24/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/ankan24/LeetCode-Solutions/tree/master/0476-number-complement) |
 ## Queue
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ankan24/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/ankan24/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankan24/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## Tree
 |  |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankan24/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ankan24/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
