@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/ankan24/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/ankan24/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ankan24/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Queue
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/ankan24/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ankan24/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankan24/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ankan24/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Tree
 |  |
 | ------- |
