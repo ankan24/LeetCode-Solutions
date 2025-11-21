@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/ankan24/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/ankan24/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ankan24/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/ankan24/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankan24/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/ankan24/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ankan24/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/ankan24/LeetCode-Solutions/tree/master/0051-n-queens) |
 ## Divide and Conquer
 |  |
 | ------- |
