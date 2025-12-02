@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/ankan24/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/ankan24/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ankan24/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ankan24/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankan24/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ankan24/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ankan24/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankan24/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ankan24/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankan24/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ankan24/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankan24/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ankan24/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankan24/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ankan24/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/ankan24/LeetCode-Solutions/tree/master/0661-image-smoother) |
