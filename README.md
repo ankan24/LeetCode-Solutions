@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/ankan24/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0661-image-smoother](https://github.com/ankan24/LeetCode-Solutions/tree/master/0661-image-smoother) |
+| [2974-minimum-number-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ankan24/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankan24/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2974-minimum-number-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Linked List
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ankan24/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [2974-minimum-number-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankan24/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
