@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/ankan24/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankan24/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ankan24/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ankan24/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ankan24/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankan24/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ankan24/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
