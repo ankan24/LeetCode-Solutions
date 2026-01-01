@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/ankan24/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0661-image-smoother](https://github.com/ankan24/LeetCode-Solutions/tree/master/0661-image-smoother) |
+| [1672-richest-customer-wealth](https://github.com/ankan24/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ankan24/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/ankan24/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/ankan24/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ankan24/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/ankan24/LeetCode-Solutions/tree/master/0661-image-smoother) |
+| [1672-richest-customer-wealth](https://github.com/ankan24/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
 | ------- |
