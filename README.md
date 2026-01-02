@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0201-bitwise-and-of-numbers-range](https://github.com/ankan24/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/ankan24/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/ankan24/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [1486-xor-operation-in-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ankan24/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Queue
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/ankan24/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ankan24/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankan24/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ankan24/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/ankan24/LeetCode-Solutions/tree/master/2652-sum-multiples) |
