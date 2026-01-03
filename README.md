@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0661-image-smoother](https://github.com/ankan24/LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [1672-richest-customer-wealth](https://github.com/ankan24/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankan24/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ankan24/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/ankan24/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/ankan24/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ankan24/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankan24/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankan24/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/ankan24/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
