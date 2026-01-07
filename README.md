@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankan24/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ankan24/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/ankan24/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1486-xor-operation-in-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ankan24/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/ankan24/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ankan24/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ankan24/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
