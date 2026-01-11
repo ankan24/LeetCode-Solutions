@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/ankan24/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0661-image-smoother](https://github.com/ankan24/LeetCode-Solutions/tree/master/0661-image-smoother) |
+| [0682-baseball-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1672-richest-customer-wealth](https://github.com/ankan24/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/ankan24/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankan24/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankan24/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ankan24/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Backtracking
 |  |
