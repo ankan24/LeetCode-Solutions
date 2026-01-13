@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0532-k-diff-pairs-in-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0661-image-smoother](https://github.com/ankan24/LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [1550-three-consecutive-odds](https://github.com/ankan24/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/ankan24/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
