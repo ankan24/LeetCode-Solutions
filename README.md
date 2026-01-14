@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2798-number-of-employees-who-met-the-target](https://github.com/ankan24/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/ankan24/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/ankan24/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ankan24/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankan24/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ankan24/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2974-minimum-number-game](https://github.com/ankan24/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/ankan24/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Linked List
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2652-sum-multiples](https://github.com/ankan24/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ankan24/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ankan24/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/ankan24/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ankan24/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankan24/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ankan24/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
