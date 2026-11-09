@@ -1,18 +1,41 @@
+
 class Solution {
     public int reverse(int x) {
-        String n = ""+x;
-        String rev = "";
-        if(x>0){
-            rev = new StringBuilder(n).reverse().toString();
-        }else if(x<0){
-            rev = "-"+new StringBuilder(n.substring(1)).reverse().toString();
-        }else{
-            return 0;
+
+        if (x > 0) {
+            int ans = 0;
+
+            while (x > 0) {
+                int rem = x % 10;
+                x = x / 10;
+
+                if (ans > Integer.MAX_VALUE / 10 ||
+                    (ans == Integer.MAX_VALUE / 10 && rem > 7)) {
+                    return 0;
+                }
+
+                ans = ans * 10 + rem;
+            }
+
+            return ans;
         }
-         try {
-            return Integer.parseInt(rev);
-        }catch (Exception e) {
-            return 0;
+
+        else {
+            int ans = 0;
+
+            while (x < 0) {
+                int rem = x % 10;
+                x = x / 10;
+
+                if (ans < Integer.MIN_VALUE / 10 ||
+                    (ans == Integer.MIN_VALUE / 10 && rem < -8)) {
+                    return 0;
+                }
+
+                ans = ans * 10 + rem;
+            }
+
+            return ans;
         }
     }
 }
